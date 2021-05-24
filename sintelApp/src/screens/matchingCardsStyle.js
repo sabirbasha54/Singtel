@@ -25,9 +25,4 @@ export default styles = StyleSheet.create({
     borderColor: WHITE,
     borderWidth: 3,
   },
-  flipText: {
-    fontSize: 20,
-    color: WHITE,
-    fontWeight: 'bold',
-  },
 });
